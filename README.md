@@ -6,13 +6,13 @@ Today we will be learning about Github (basics).
 <br/>
 _This makes the text italic_
 <br/>
-# Unordered list
+Unordered list
 <br/>
 - list 1
 - list 2
 - list 3
 <br/>
-# Ordered list
+Ordered list
 <br/>
 1. list 1
 2. list 2
