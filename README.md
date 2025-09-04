@@ -5,7 +5,7 @@ Today we will be learning about Github (basics).
 **This this bold text**
 <br/>
 _This makes the text italic_
-<br/>
+
 Unordered list
 - list 1
 - list 2
