@@ -12,8 +12,8 @@ Unordered list
 - list 3
 <br/>
 Ordered list
-<br/>
 
+<br/>
 1. list 1
 2. list 2
 3. list 3
