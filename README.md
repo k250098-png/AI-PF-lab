@@ -7,7 +7,6 @@ Today we will be learning about Github (basics).
 _This makes the text italic_
 <br/>
 Unordered list
-<br/>
 - list 1
 - list 2
 - list 3
@@ -17,4 +16,5 @@ Ordered list
 1. list 1
 2. list 2
 3. list 3
+4. 
    
