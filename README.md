@@ -6,6 +6,6 @@ Today we will be learning about Github (basics).
 <br/>
 _This makes the text italic_
 <br/>
-list 1
+-list 1
 - list 2
 - list 3
