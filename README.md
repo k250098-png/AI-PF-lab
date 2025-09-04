@@ -12,7 +12,8 @@ _This makes the text italic_
 - list 2
 - list 3
 <br/>
-  # Ordered list
+# Ordered list
+<br/>
 1. list 1
 2. list 2
 3. list 3
