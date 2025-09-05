@@ -1,21 +1,3 @@
-#This is the further branch merged
-# AI-PF-lab
-Today we will be learning about Github (basics).
-# Heading 1
-## headng 2
-**This this bold text**
+Hello! My name is hasan and i am a student at fast. Currently i am enrolled in BS-AI program and my roll number is 25k-0098. 
 <br/>
-_This makes the text italic_
-
-Unordered list
-- list 1
-- list 2
-- list 3
-<br/>
-
-Ordered list
-
-1. list 1
-2. list 2
-3. list 3
-   
+I have a deep passion for computers and the tecnologies related to it. Although i donot like programming alot but still i am looking forward to learn alot of new things.
