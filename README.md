@@ -15,6 +15,11 @@ I have a deep passion for computers and the tecnologies related to it. Although 
 1. type 1
 2. type 2
 3. type 3
+   
+## Bold + Italic statements
 
-**Github is very usefull**
+**This is bold**
+
+*This is italic*
+
 
